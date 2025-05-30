@@ -13,8 +13,7 @@
 
 ### 1. 📥 ดาวน์โหลดไฟล์
 
-
-[![Download](https://img.shields.io/badge/Download-cookie__tool__v1.0-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/raw/main/cookie_tool.zip)
+[![Download](https://img.shields.io/badge/Download-cookie__tool__v1.0-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/raw/main/cookie_tool.rar)
 
 
 
