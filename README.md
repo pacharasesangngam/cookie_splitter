@@ -13,7 +13,8 @@
 
 ### 1. 📥 ดาวน์โหลดไฟล์
 
-[![Download](https://img.shields.io/badge/Download-cookie__splitter-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/blob/main/cookie_splitter_v1.0.rar)
+[![Download](https://img.shields.io/badge/Download-cookie__splitter__v1.0-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/raw/main/cookie_splitter_v1.0.zip)
+
 
 
 
