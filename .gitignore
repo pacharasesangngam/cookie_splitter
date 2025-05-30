@@ -1,0 +1,15 @@
+
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+*.spec
+dist/
+build/
+combo.txt
+user_pass.txt
+cookie.txt
+.vscode/
