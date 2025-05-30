@@ -1,0 +1,2 @@
+user1:pass1:cookie_data1
+user2:pass2:cookie_data2
