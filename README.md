@@ -12,7 +12,6 @@
 ## 🖥️ วิธีใช้งานโปรแกรม (Windows)
 
 ### 1. 📥 ดาวน์โหลดไฟล์
-## 📥 ดาวน์โหลดโปรแกรม
 
 [![ดาวน์โหลด](https://img.shields.io/badge/Download-cookie__splitter.exe-blue?style=for-the-badge&logo=github)](https://github.com/pacharasesangngam/cookie_splitter/releases/download/v1.0/cookie_splitter.exe)
 
